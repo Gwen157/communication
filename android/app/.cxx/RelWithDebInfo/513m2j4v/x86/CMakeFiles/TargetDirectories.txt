@@ -1,0 +1,2 @@
+/home/gwen/StudioProjects/flutter_demo/android/app/.cxx/RelWithDebInfo/513m2j4v/x86/CMakeFiles/edit_cache.dir
+/home/gwen/StudioProjects/flutter_demo/android/app/.cxx/RelWithDebInfo/513m2j4v/x86/CMakeFiles/rebuild_cache.dir

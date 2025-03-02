@@ -1,0 +1,2 @@
+/home/gwen/StudioProjects/flutter_demo/android/app/.cxx/Debug/511i1068/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/gwen/StudioProjects/flutter_demo/android/app/.cxx/Debug/511i1068/armeabi-v7a/CMakeFiles/rebuild_cache.dir
